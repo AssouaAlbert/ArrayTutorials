@@ -16,6 +16,8 @@ public class Main {
         insertAnElementSpecificPosition(12, 3);
         insertAnElementSpecificPosition(24, 5);
         flipArray();
+        System.out.println(Integer.MIN_VALUE);
+        System.out.println(Integer.MAX_VALUE);
     }
 
     public static void printGridToScreen() {
